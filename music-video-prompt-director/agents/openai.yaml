@@ -1,0 +1,4 @@
+interface:
+  display_name: "Music Video Prompt Director"
+  short_description: "Plan cinematic music videos from songs and references"
+  default_prompt: "Use $music-video-prompt-director to turn my song into a complete storyboard with image and video generation prompts."

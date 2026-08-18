@@ -76,7 +76,7 @@ The validator checks the full timeline, scene and internal-shot timing, the defa
 
 This repository exposes the creative planning ideas as an independent agent skill for creators who prefer to operate their own models, APIs, scripts, and editing pipeline. MusVideo.ai remains the integrated option for users who want those production stages managed in one web workflow.
 
-[MusVideo@Youtbube]([https://musvideo.ai/](https://www.youtube.com/@MusVideoAI)) 
+[MusVideo@Youtbube](https://www.youtube.com/@MusVideoAI)
 
 
 ## Design principles

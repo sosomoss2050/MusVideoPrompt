@@ -34,6 +34,14 @@ For audio-led analysis, inspect the audio with available transcription/audio too
 
 Read [workflow.md](references/workflow.md) for segmentation and coverage logic.
 
+#### 2.0 Concept insight (do this before segmentation decisions)
+
+Read [concept-insight.md](references/concept-insight.md) and distill the song's core tension into a one-sentence insight (`[listener] wants X, but Y stands in the way, because Z`). Generate 3–5 candidate visual concepts (first two are warmup), run the anti-cliché stock-idea check, and pick one target emotion at Tier 2–3 specificity. The chosen insight and emotion become the seed of `project.creative_direction` and `project.mood`, and every scene's `narrative_purpose` must be defensible against them.
+
+#### 2.1 Segment the song
+
+Read [workflow.md](references/workflow.md) for segmentation and coverage logic.
+
 Create contiguous sections covering the full song with no overlaps or gaps. Default to 10–15 seconds per generated clip. Align boundaries to phrase endings, section changes, breaks, drops, or strong energy shifts.
 
 For each section record:
